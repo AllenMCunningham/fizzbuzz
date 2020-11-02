@@ -1,5 +1,5 @@
 {
-    "name": "AllenFizzBuzz", 
+    "name": "allen_fizz_buzz", 
     "version": "0.1",
     "description": "Playing with node to do fizz buzz", 
     "main": "fizzbuzz.js"
