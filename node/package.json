@@ -11,7 +11,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "npm test"
+    "test": "mocha"
   },
   "author": "Allen Cunningham",
   "license": "ISC"
