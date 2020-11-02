@@ -1,0 +1,6 @@
+{
+    "name": "AllenFizzBuzz", // The name of your project
+    "version": "0.1", // The version of your project
+    "description": "Playing with node to do fizz buzz", // The description of your project
+    "main": "fizzbuzz.js"
+}
