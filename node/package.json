@@ -1,6 +1,18 @@
 {
-    "name": "allen_fizz_buzz", 
-    "version": "0.1",
-    "description": "Playing with node to do fizz buzz", 
-    "main": "fizzbuzz.js"
+  "name": "allen_fizz_buzz",
+  "version": "0.0.1",
+  "description": "Playing with node to do fizz buzz",
+  "main": "fizzbuzz.js",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "~8.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Allen Cunningham",
+  "license": "ISC"
 }
