@@ -35,6 +35,7 @@ bower_components
 .classpath
 .c9/
 *.launch
+.vscode
 .settings/
 *.sublime-workspace
 
@@ -222,6 +223,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Scripts/
+pyvenv.cfg
 
 # Spyder project settings
 .spyderproject
